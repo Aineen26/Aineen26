@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Aineen Sayyed
+# EchoOfAineen
 
 ### Aspiring AI Cloud Engineer | Tech Enthusiast
 
