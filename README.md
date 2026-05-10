@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I am a recent graduate with a **B.Sc. in Computer Management**, driven by a passion for bridging the gap between robust cloud infrastructure and intelligent AI solutions.
+I am in my third year of **B.Sc. in Computer Management**, driven by a passion for bridging the gap between robust cloud infrastructure and intelligent AI solutions.
 
 Having built a solid foundation in **Python** and fundamental computing principles, I am now focused on leveraging cloud technologies to build scalable, intelligent systems. I am eager to apply my skills to real-world challenges in cloud engineering and AI implementation.
 
@@ -17,8 +17,8 @@ Having built a solid foundation in **Python** and fundamental computing principl
 
 | Category | Technologies |
 | --- | --- |
-| **Languages** | Python (Basics) |
-| **Cloud Platforms** | Learning & Exploring AWS/Azure |
+| **Languages** | Python (Intermediate) |
+| **Cloud Platforms** | Learning & Exploring Microsoft Azure |
 | **Data & AI** | Foundational AI concepts, Data Management |
 | **Core Computing** | Computer Management, System Analysis |
 
@@ -34,7 +34,7 @@ Having built a solid foundation in **Python** and fundamental computing principl
 
 ## 📞 Connect with Me
 
-* **LinkedIn:** []
+* **LinkedIn:** [https://www.linkedin.com/in/aineen-sayyed-208494364/]
 * **Email:** [aineensayyed2005@gmail.com]
 
 ---
