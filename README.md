@@ -16,10 +16,10 @@
 
 ### 🚀 My Journey So Far...
 
-graph LR
+
 A[Python Basics ✅] --> B[FastAPI Mastery ✅]
-B --> C[AZ-900 ☁️ In Progress ⚙️]
-C --> D[AI-102 🤖 Coming Soon...]
+--> C[AZ-900 ☁️ In Progress ⚙️]
+--> D[AI-102 🤖 Coming Soon...]
 
 ---
 
