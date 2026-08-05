@@ -3,7 +3,7 @@
 <h1 align="center">✨ WELCOME TO MY HUB! ✨</h1>
 <h3 align="center">Hi, I'm Aineen 👋</h3>
 <p align="center">
-  <b>Aspiring AI & Cloud Engineer | Python & FastAPI Enthusiast | Azure Explorer</b>
+  <b>Aspiring AI & Cloud Engineer | Python & FastAPI Enthusiast | Azure Explorer | Microsoft Certified</b>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 
 A[Python Basics ✅] --> B[FastAPI Mastery ✅]
---> C[AZ-900 ☁️ In Progress ⚙️]
+--> C[AZ-900 ☁️ Certified ⚙️]
 --> D[AI-102 🤖 Coming Soon...]
 
 ---
