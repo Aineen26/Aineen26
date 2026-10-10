@@ -26,8 +26,8 @@ A[Python Basics ✅] --> B[FastAPI Mastery ✅]
 ### 🚀 My Learning Roadmap
 - [x] Python Basics 🐍
 - [x] FastAPI CRUD APIs ⚡
-- [ ] Azure AZ-900 ☁️ (In Progress...)
-- [ ] AI-102 🤖 (Next Target!)
+- [ ] Azure AZ-900 ☁️ (Certified)
+- [ ] DP-700 🤖 (Next Target!)
 
 ---
 <h1 align="center">☁️🤖 AI + Cloud Fusion 🚀</h1>
