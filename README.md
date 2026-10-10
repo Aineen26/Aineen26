@@ -9,7 +9,7 @@
 ---
 ### 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FFCC&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+FastAPI+Developer+%7C+Azure+Learner" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FFCC&center=true&vCenter=true&width=500&lines=Engineer+%7C+Python+Developer+%7C+Azure+Learner" alt="Typing Animation"/>
 </p>
 
 ---
