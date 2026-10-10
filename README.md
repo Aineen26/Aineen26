@@ -19,7 +19,7 @@
 
 A[Python Basics ✅] --> B[FastAPI Mastery ✅]
 --> C[AZ-900 ☁️ Certified ⚙️]
---> D[AI-102 🤖 Coming Soon...]
+--> D[DP-700 🤖 Coming Soon...]
 
 ---
 
