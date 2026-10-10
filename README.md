@@ -9,7 +9,7 @@
 ---
 ### 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FFCC&center=true&vCenter=true&width=500&lines=Engineer+%7C+Python+Developer+%7C+Azure+Learner" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FFCC&center=true&vCenter=true&width=500&lines=internsData+Engineer+%7C+Python+Developer+%7C+Azure+Learner" alt="Typing Animation"/>
 </p>
 
 ---
@@ -30,9 +30,9 @@ A[Python Basics ✅] --> B[Spark ✅]
 - [ ] DP-700 🤖 (Next Target!)
 
 ---
-<h1 align="center">☁️🤖 AI + Cloud Fusion 🚀</h1>
+<h1 align="center">☁️🤖 Data + Cloud Fusion 🚀</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFFF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Meets+Cloud+Innovation;FastAPI+%7C+Azure+%7C+Python;Smart+Automation+in+the+Cloud;AI+is+the+Future+of+Computing!" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFFF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Meets+Cloud+Innovation;Spark+%7C+Azure+%7C+Python;Smart+Automation+in+the+Cloud;AI+is+the+Future+of+Computing!" alt="Typing Animation"/>
 </p>
 
 ---
