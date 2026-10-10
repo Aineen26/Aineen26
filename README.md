@@ -3,7 +3,7 @@
 <h1 align="center">✨ WELCOME TO MY HUB! ✨</h1>
 <h3 align="center">Hi, I'm Aineen 👋</h3>
 <p align="center">
-  <b>Aspiring AI & Cloud Engineer | Python & FastAPI Enthusiast | Azure Explorer | Microsoft Certified</b>
+  <b>Aspiring Data Engineer | Python | Azure Explorer | Microsoft Certified</b>
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ### 🚀 My Journey So Far...
 
 
-A[Python Basics ✅] --> B[FastAPI Mastery ✅]
+A[Python Basics ✅] --> B[Spark ✅]
 --> C[AZ-900 ☁️ Certified ⚙️]
 --> D[DP-700 🤖 Coming Soon...]
 
@@ -25,7 +25,7 @@ A[Python Basics ✅] --> B[FastAPI Mastery ✅]
 
 ### 🚀 My Learning Roadmap
 - [x] Python Basics 🐍
-- [x] FastAPI CRUD APIs ⚡
+- [x] Spark & Databricks ⚡
 - [ ] Azure AZ-900 ☁️ (Certified)
 - [ ] DP-700 🤖 (Next Target!)
 
